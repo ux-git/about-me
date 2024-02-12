@@ -5,8 +5,6 @@ Currently, I'm working on the [Organized app](https://github.com/sws2apps/organi
 
 ![](https://komarev.com/ghpvc/?username=ux-git)
 
-## About me
-
 🎨 Product Designer with 6 years of experience.
 
 💡 Always learning new skills and exploring new tech.
