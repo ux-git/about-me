@@ -13,4 +13,4 @@ Currently, I'm working on the [Organized app](https://github.com/sws2apps/organi
 
 ## Current project: Organized App
 
-🚀 I'm actively contributing to the design and development of the [Organized app](https://github.com/sws2apps/organized-app) – a tool designed to assist everyone in Jehovah’s Witnesses congregations. That's the repository where you can find and contact me.
+🚀 I'm actively contributing to the design and development of the [Organized](https://github.com/sws2apps/organized-app) – a tool designed to assist everyone in Jehovah’s Witnesses congregations. That's the repository where you can find and contact me.
