@@ -5,9 +5,11 @@ Currently, I'm working on the [Organized app]([url](https://github.com/sws2apps/
 
 ## About me
 
-🎨 Product Designer with 6 years of experience.
-💡 Always learning new skills and exploring new tech.
-🌐 Happy to collaborate with developers on impactful projects!
+– 🎨 Product Designer with 6 years of experience.
+
+– 💡 Always learning new skills and exploring new tech.
+
+– 🌐 Happy to collaborate with developers on impactful projects!
 
 ## Current project: Organized App
 
