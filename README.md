@@ -1,7 +1,7 @@
 ### A designer among thousands of developers...
 
-Hey! 👋 I'm an enthusiastic Product Designer, interested in web development, and love collaborating on open-source projects.
-Currently, I'm working on the [Organized app](https://github.com/sws2apps/organized-app)), which helps congregations save hundreds of hours and get rid of tons of stress.
+Hey! 👋 I'm an enthusiastic Product Designer, interested in web development, and love collaborating on theocratic open-source projects.
+Currently, I'm working on the [Organized app](https://github.com/sws2apps/organized-app), which helps congregations save hundreds of hours and get rid of tons of stress.
 
 ![](https://komarev.com/ghpvc/?username=ux-git)
 
