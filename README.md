@@ -1,7 +1,7 @@
 ### A designer among thousands of developers...
 
 Hey! 👋 I'm an enthusiastic Product Designer, interested in web development, and love collaborating on theocratic open-source projects.
-Currently, I'm working on the [Organized app](https://github.com/sws2apps/organized-app), which helps congregations save hundreds of hours and get rid of tons of stress.
+Currently, I'm working on the [Organized app](https://github.com/sws2apps/organized-app), which helps congregations manage all aspects of their theocratic life, saving hundreds of hours and reducing tons of stress. Also, I'm happy to contribute my UI/UX skills to another app I regularly use and love, [Meeting Media Manager](https://github.com/sircharlo/meeting-media-manager)!
 
 ![](https://komarev.com/ghpvc/?username=ux-git)
 
